@@ -15,6 +15,15 @@
     background-image: url("https://wallpapercat.com/w/full/2/c/8/5825739.jpg");
     background-size: cover;
 }
+/*pagina del registro */
+.registro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://wallpapercat.com/w/full/2/c/8/5825739.jpg");
+    background-size: cover;
+}
 
 /* Estilo del contenedor del login */
 .login-container {
